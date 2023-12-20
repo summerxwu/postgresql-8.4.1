@@ -1,0 +1,13 @@
+*.o
+cscope*
+GPATH
+GRTAGS
+GTAGS
+tags
+compile_commands.json
+build.sh
+CsdbBuild.sh
+config.log
+config.status
+
+

@@ -1,0 +1,1 @@
+-- No language-specific snowball dictionaries, for lack of shared library support
